@@ -1,0 +1,18 @@
+2024-Dec-19-18:05:1734649556 : Peliminaries complete, Initiating ETL process
+2024-Dec-19-18:05:1734649557 : Data extraction complete. Initiating Transformation process
+2024-Dec-19-18:05:1734649557 : Data transformation complete. Initiating loading process
+2024-Dec-19-18:05:1734649557 : Data saved to CSV file
+2024-Dec-19-18:05:1734649557 : SQL Connection initiated.
+2024-Dec-19-18:06:1734649601 : Peliminaries complete, Initiating ETL process
+2024-Dec-19-18:06:1734649602 : Data extraction complete. Initiating Transformation process
+2024-Dec-19-18:06:1734649602 : Data transformation complete. Initiating loading process
+2024-Dec-19-18:06:1734649602 : Data saved to CSV file
+2024-Dec-19-18:06:1734649602 : SQL Connection initiated.
+2024-Dec-19-18:06:1734649602 : Data loaded to Database as table. Running the query
+2024-Dec-19-18:07:1734649676 : Peliminaries complete, Initiating ETL process
+2024-Dec-19-18:07:1734649678 : Data extraction complete. Initiating Transformation process
+2024-Dec-19-18:07:1734649678 : Data transformation complete. Initiating loading process
+2024-Dec-19-18:07:1734649678 : Data saved to CSV file
+2024-Dec-19-18:07:1734649678 : SQL Connection initiated.
+2024-Dec-19-18:07:1734649678 : Data loaded to Database as table. Running the query
+2024-Dec-19-18:07:1734649678 : Process Complete.
